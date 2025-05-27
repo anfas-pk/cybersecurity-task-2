@@ -6,15 +6,20 @@ To identify phishing characteristics in a suspicious email and increase awarenes
 
 
  Sample Phishing Email:
+ 
 From: support@netfliix-billing.com
+To: user@example.com
 Subject: Urgent: Your Netflix account is on hold
 
-Message Body:
 Dear user,
+
 Your payment was declined. Update your info now to continue using our service.
+
 Click here to resolve: http://netflix.billing-update.fake/login
+
 Thank you,
 Netflix Billing Team
+
 
 
 
